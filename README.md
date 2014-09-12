@@ -1,3 +1,4 @@
+Follow these steps:
 1) Setup mysql database
 2) Execute the mysql.sql script
 3) Setup Eclipse with maven
