@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rvanrijn/spring-security-login-database.svg?branch=master)](https://travis-ci.org/rvanrijn/spring-security-login-database)
+
 Follow these steps:
 1) Setup mysql database
 2) Execute the mysql.sql script
