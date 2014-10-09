@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/rvanrijn/spring-security-login-database.svg?branch=master)](https://travis-ci.org/rvanrijn/spring-security-login-database)
 
+[![Coverage Status](https://coveralls.io/repos/rvanrijn/spring-security-login-database/badge.png)](https://coveralls.io/r/rvanrijn/spring-security-login-database)
+
 Follow these steps:
 1) Setup mysql database
 2) Execute the mysql.sql script
